@@ -19,15 +19,15 @@
 
 ### 🌙 Sobre Mim
 
-<table>
+<table border="0">
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
       <p>Olá, eu sou o <strong>Igor</strong>, um Desenvolvedor Fullstack apaixonado por transformar desafios em soluções eficientes e visualmente atraentes.</p>
       <p>> Atualmente, estou focado em criar aplicações robustas com <strong>Spring Boot</strong> e <strong>PHP</strong>, consumindo-as em interfaces fluidas e modernas com <strong>React</strong>.</p>
       <p>Possuo sólida experiência com modelagem de dados <strong>SQL</strong> (PostgreSQL e MySQL), além de um olhar crítico para <strong>UI (User Interface)</strong>, garantindo performance e uma excelente experiência para o usuário.</p>
     </td>
-    <td width="40%">
-      <img src="https://i.pinimg.com/originals/13/2d/e3/132de36319f39050d27771c5040e34b9.jpg" width="100%" style="border-radius: 10px;">
+    <td width="40%" align="center" valign="top">
+      <img src="https://replicate.delivery/xpbkg/nS5eL0fGk24Y8XfE7fUuA7O5E8Y1fS3fU7U5E8Y1fS3fU7U5E/output.png" width="100%" style="border-radius: 15px; border: 1px solid #30363d;">
     </td>
   </tr>
 </table>
